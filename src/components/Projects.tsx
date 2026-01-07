@@ -25,6 +25,14 @@ const projects = [
     image: '/aoisora.png',
     github: 'https://github.com/akitafuki/aoi-sora-bot',
     demo: ''
+  },
+  {
+    title: 'My Resume Site',
+    description: 'A personal website showcasing my resume.',
+    tags: ['Node.js', 'Astro'],
+    image: '/resumesite.png',
+    github: 'https://github.com/akitafuki/my-resume-site',
+    demo: 'https://www.jimmiemaggard.com/'
   }
 ];
 
