@@ -29,7 +29,7 @@ const projects = [
   {
     title: 'My Resume Site',
     description: 'A personal website showcasing my resume.',
-    tags: ['Node.js', 'Astro'],
+    tags: ['Node.js', 'Astro', 'AWS Amplify'],
     image: '/resumesite.png',
     github: 'https://github.com/akitafuki/my-resume-site',
     demo: 'https://www.jimmiemaggard.com/'
