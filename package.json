@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@icons-pack/react-simple-icons": "^13.8.0",
-    "framer-motion": "^12.23.26",
+    "motion": "^12.23.26",
     "lucide-react": "^1.0.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
